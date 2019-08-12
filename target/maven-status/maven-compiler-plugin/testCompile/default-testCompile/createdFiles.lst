@@ -1,0 +1,4 @@
+com/memorynotfound/spring/security/test/PasswordResetIT.class
+com/memorynotfound/spring/security/test/SmtpServerRule.class
+com/memorynotfound/spring/security/test/UserRegistrationIT.class
+com/memorynotfound/spring/security/test/PasswordForgotIT.class
